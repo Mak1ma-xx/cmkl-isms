@@ -1,0 +1,15 @@
+# AI Systems Register
+
+Inventory of AI systems in use or under development. One row per system. Update rows in place when status or classification changes.
+
+| AI System ID | Name | Owner | Intended purpose | Deployment Context | Risk Level | Status | Last reviewed | Impact Assessment Link | Notes |
+|--------------|------|-------|---------|--------------------|------------|--------|---------------|------------------------|-------|
+| — | — | — | — | — | — | — | — | — | — |
+
+---
+
+## Changelog
+
+| Version | Date | Owner | Approver | Changes |
+|---------|------|-------|----------|---------|
+| 1.0 | TBD | CTO | CEO | Initial version |
